@@ -1,2 +1,1 @@
 # qtv
-Quick Text Viewer
